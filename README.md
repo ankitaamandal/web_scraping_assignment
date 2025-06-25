@@ -14,7 +14,7 @@ This project automates the extraction of Authorization Holder names and their Si
 Install requirements:
 ```bash
 pip install requirements.txt
-
+```
 ## Approach
 The first step was to become familiar with the structure of the EudraGMDP database. This involved reviewing documents and annexes to understand the terminology used
 
